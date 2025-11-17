@@ -1,0 +1,6 @@
+# GuessPass - Terminal Password Analyzer
+# No external dependencies required for basic functionality
+# Built with Python 3.6+
+
+# Optional: For enhanced functionality you can add:
+# colorama==0.4.6

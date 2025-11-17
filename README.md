@@ -1,2 +1,11 @@
-# Guess-Pass
-GuessPass is a powerful security analysis tool that demonstrates how attackers can guess passwords using publicly available personal information. By analyzing patterns in personal data, it generates likely password combinations to help users understand and improve their password security.
+🔐 GuessPass - Password Insight Generator
+<div align="center">
+https://img.shields.io/badge/Python-3.6+-blue.svg
+https://img.shields.io/badge/License-MIT-green.svg
+https://img.shields.io/badge/Platform-Linux%2520%257C%2520Windows%2520%257C%2520macOS-lightgrey.svg
+
+Advanced password pattern analysis tool that reveals how personal information creates vulnerable passwords
+
+Developed by r7al38
+
+</div>

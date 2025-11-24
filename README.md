@@ -74,6 +74,6 @@ python3 guesspass.py --output results.txt
 Inspired by real-world password analysis techniques Thanks to
 the security community for pattern research Common password lists from security researchers.
 
-## 👨‍💻 Developer - r7al38
+## 👨‍💻 Developer - Mustafa Rahal
 
 **Remember**: Strong passwords are your first line of defense. Use this tool to understand vulnerabilities and improve your security posture!

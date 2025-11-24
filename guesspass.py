@@ -3,7 +3,7 @@
 
 """
 GuessPass - Terminal Password Insight Generator
-Dev: Mustafa Rahal
+Developer : Mustafa Rahal
 """
 
 import os
